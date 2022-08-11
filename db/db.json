@@ -1,0 +1,14 @@
+{
+    "notes": [
+      {
+        "title": "Super Awesome Amazing Note Taker!",
+        "text": "You may store your notes here using the pencil icon.",
+        "id": "0"
+      },
+      {
+        "title": "Don't need a note anymore?",
+        "text": "Please click the trash can to delete any notes you need to.",
+        "id": "1"
+      }
+    ]
+  }
